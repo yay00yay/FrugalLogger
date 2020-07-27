@@ -1,0 +1,5 @@
+C:\Users\yinglzh\source\repos\FrugalLogger\FrugalLogger\FrugalLogger\bin\Debug\netstandard2.0\FrugalLogger.deps.json
+C:\Users\yinglzh\source\repos\FrugalLogger\FrugalLogger\FrugalLogger\bin\Debug\netstandard2.0\FrugalLogger.dll
+C:\Users\yinglzh\source\repos\FrugalLogger\FrugalLogger\FrugalLogger\obj\Debug\netstandard2.0\FrugalLogger.csprojAssemblyReference.cache
+C:\Users\yinglzh\source\repos\FrugalLogger\FrugalLogger\FrugalLogger\obj\Debug\netstandard2.0\FrugalLogger.AssemblyInfoInputs.cache
+C:\Users\yinglzh\source\repos\FrugalLogger\FrugalLogger\FrugalLogger\obj\Debug\netstandard2.0\FrugalLogger.AssemblyInfo.cs
