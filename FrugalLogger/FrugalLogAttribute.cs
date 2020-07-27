@@ -2,11 +2,16 @@
 using System.Collections.Generic;
 using System.Text;
 using System.Web.Http.Controllers;
-using System.Web.Mvc;
+using System.Web.Http.Filters;
+
 
 namespace FrugalLogger
 {
-    class FrugalLogAttribute : ActionFilterAttribute
+    public class FrugalLogAttribute : ActionFilterAttribute
     {
+        public override void OnActionExecuting(HttpActionContext actionContext)
+        {
+            var log = actionContext.ActionArguments;
+        }
     }
 }
