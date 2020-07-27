@@ -4,7 +4,7 @@ using System.Text;
 
 namespace FrugalLogger
 {
-    class FrugalLogAttribut
+    class FrugalLogAttribute
     {
     }
 }
