@@ -143,13 +143,13 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\FrugalLogger\FrugalLogger.csproj">
-      <Project>{05c0146c-50b6-4517-845e-02c48633e343}</Project>
-      <Name>FrugalLogger</Name>
-    </ProjectReference>
+    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="packages.config" />
+    <ProjectReference Include="..\FrugalLoggerV1\FrugalLoggerV1.csproj">
+      <Project>{cfe83f54-4c02-42a4-9d29-1db14e7295a6}</Project>
+      <Name>FrugalLoggerV1</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

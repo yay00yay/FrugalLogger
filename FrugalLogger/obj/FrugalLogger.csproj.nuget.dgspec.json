@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yinglzh\\source\\repos\\FrugalLogger\\FrugalLogger\\FrugalLogger\\FrugalLogger.csproj": {}
+    "C:\\Users\\anyyu\\Documents\\FrugalLogger\\FrugalLogger\\FrugalLogger.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yinglzh\\source\\repos\\FrugalLogger\\FrugalLogger\\FrugalLogger\\FrugalLogger.csproj": {
+    "C:\\Users\\anyyu\\Documents\\FrugalLogger\\FrugalLogger\\FrugalLogger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yinglzh\\source\\repos\\FrugalLogger\\FrugalLogger\\FrugalLogger\\FrugalLogger.csproj",
+        "projectUniqueName": "C:\\Users\\anyyu\\Documents\\FrugalLogger\\FrugalLogger\\FrugalLogger.csproj",
         "projectName": "FrugalLogger",
-        "projectPath": "C:\\Users\\yinglzh\\source\\repos\\FrugalLogger\\FrugalLogger\\FrugalLogger\\FrugalLogger.csproj",
-        "packagesPath": "C:\\Users\\yinglzh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yinglzh\\source\\repos\\FrugalLogger\\FrugalLogger\\FrugalLogger\\obj\\",
+        "projectPath": "C:\\Users\\anyyu\\Documents\\FrugalLogger\\FrugalLogger\\FrugalLogger.csproj",
+        "packagesPath": "C:\\Users\\anyyu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anyyu\\Documents\\FrugalLogger\\FrugalLogger\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\yinglzh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\anyyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -70,7 +70,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
