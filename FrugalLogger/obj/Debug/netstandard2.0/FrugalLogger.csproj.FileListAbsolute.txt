@@ -6,3 +6,4 @@ C:\Users\yinglzh\source\repos\FrugalLogger\FrugalLogger\FrugalLogger\bin\Debug\n
 C:\Users\yinglzh\source\repos\FrugalLogger\FrugalLogger\FrugalLogger\obj\Debug\netstandard2.0\FrugalLogger.csproj.CoreCompileInputs.cache
 C:\Users\yinglzh\source\repos\FrugalLogger\FrugalLogger\FrugalLogger\obj\Debug\netstandard2.0\FrugalLogger.dll
 C:\Users\yinglzh\source\repos\FrugalLogger\FrugalLogger\FrugalLogger\obj\Debug\netstandard2.0\FrugalLogger.pdb
+C:\Users\yinglzh\source\repos\FrugalLogger\FrugalLogger\FrugalLogger\obj\Debug\netstandard2.0\FrugalLogger.csprojAssemblyReference.cache

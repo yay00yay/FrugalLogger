@@ -11,7 +11,12 @@ namespace FrugalLogger
     {
         public override void OnActionExecuting(HttpActionContext actionContext)
         {
-            var log = actionContext.ActionArguments;
+            Dictionary<string, object> log = actionContext.ActionArguments;
+            string methodName = actionContext.ActionDescriptor.ActionName;
+            var request = actionContext.Request;
+            object customObject;
+            request.Properties.TryGetValue("alias", out customObject);
+            //string alias = (string)customObject;
         }
     }
 }
